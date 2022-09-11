@@ -4,7 +4,7 @@ Study: Intent, types of Intent, types of Intent Action, Intent.setData() method,
 CoordinatorLayout, startActivity() method, ActivityResultContracts.StartActivityForResult() method, registerForActivityResult() method, Permission in manifest, 
 ContextCompat.checkSelfPermission(), ActivityCompat.requestPermissions() method, Uri.parse() method, 
 
-![Screenshot (32)](https://user-images.githubusercontent.com/110656617/189538449-2e79c4e0-49e0-42cc-95e5-4f92efb98ce1.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/110656617/189538647-58423aee-e374-426a-a72c-01e7fe1fbef4.png)
 
-![Screenshot (33)](https://user-images.githubusercontent.com/110656617/189538456-9b8cb1f1-a359-4f09-b174-97f56cc74a51.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/110656617/189538656-5c1e710b-eac8-437a-8006-6fb6ba855e7d.png)
 
